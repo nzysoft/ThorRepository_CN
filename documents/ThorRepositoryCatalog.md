@@ -7,7 +7,7 @@
 工具|描述|更新日期|视频
 ---|---|---|---
 Comment highlighted text(高亮注释文本)|改进注释高亮文本的方法；也可以创建带有日期的注释行|2011/06/09
-Un-comment highlighted text|Removes comment \*!\* from each line in the highlighted text. Works in those instances where native VFP uncomment does nothing.|2011/10/22
+Un-comment highlighted text|从高亮文本中的每行删除注释。 适用于原生 VFP 注释。|2011/10/22
 Wrap text with IF / ELSE / ENDIF|Wrap highlighted text with IF / ELSE / ENDIF|2011/10/22
 Wrap text with Try / Catch|Wrap highlighted text with Try / Catch|2011/10/22
 Wrap text with With / EndWith|Wrap highlighted text with With / EndWith|2012/01/28
