@@ -10,7 +10,7 @@ Comment highlighted text|改进注释高亮文本的方法；也可以创建带�
 Un-comment highlighted text|从高亮文本中的每行删除注释。 适用于原生 VFP 注释。|2011/10/22
 Wrap text with IF / ELSE / ENDIF|用 IF / ELSE / ENDIF 包装高亮显示的文本|2011/10/22
 Wrap text with Try / Catch|使用 Try / Catch 包装突出显示的文本|2011/10/22
-Wrap text with With |/ 用 With 包装突出显示的文本 / EndWith|2012/01/28
+Wrap text with With / EndWith |用  With / EndWith 包装突出显示的文本|2012/01/28
 Change IF/ENDIF in highlighted text to DO CASE|将突出显示的文本中的 IF / ENDIF 更改为 Do Case / otherwise / EndCase|2011/10/22
 Break highlighted text|Break highlighted text out into a separate line|2011/10/22
 Extract to Constant|Extracts the currently highlighted block of code into a new constant (#Define), either at the beginning of code or, for methods, into the Include file.  See also ‘Extract to Method’ in IDE Tools.|2011/10/22
