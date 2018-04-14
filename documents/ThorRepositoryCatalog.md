@@ -16,8 +16,8 @@ Break highlighted text|将高亮文本分解成单独的一行|2011/10/22
 Extract to Constant|将当前高亮代码块提取到一个新的常量（#Define）中，并且显示在代码的开头，对于方法，会将其包含到Include文件中。 另请参阅IDE工具中的“Extract to Method”。|2011/10/22
 Extract to Variable|将当前高亮代码块提取到新变量中。 另请参阅IDE工具中的“Extract to Method”。|2011/10/22
 Code / Highlighting text|  
-Highlight parameter|Highlights a single parameter in a method or function call|2011/10/22
-Highlight parentheses|Highlights code between matching parenthesis.  Repeated usage highlights the next outer set of parentheses.|2011/10/22
+Highlight parameter|高亮显示方法或函数调用中的单个参数|2011/10/22
+Highlight parentheses|高亮显示匹配括号之间的代码。 并在下一组括号重复使用高亮。|2011/10/22
 Code / Inserting text|
 Insert blank lines around control structures|Adds a blank lines around control structures (IF / ENDIF, DO CASE / ENDCASE, etc.)|2011/10/22
 Insert call to NewObject (from MRU classes)|Pops up menu of MRU classes; then pastes in NewObject() references to the selected class|2011/10/22
