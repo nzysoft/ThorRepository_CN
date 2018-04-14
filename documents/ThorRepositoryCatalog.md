@@ -51,14 +51,14 @@ Samples|
 Modify the “Last Revision” comment|在编辑窗口中查找特定行并修改它的示例。|2011/07/29
 Wrap text with IF / ENDIF|在编辑窗口中取出高亮文本，修改它并粘贴替换的示例。|2011/06/09
 Tables|  
-Create SQL from cursor|Puts a CREATE CURSOR SQL statement on the clipboard from an open cursor.|2011/06/03
-Schema|Print/View the current table's schema|2011/06/08
-Super Browse|Browse current table in a grid, showing table structure.  You can then select fields and construct various SQL statements (Select, Insert, Create Table, etc.)|2012/01/28
-WLC Column Listing Utility|LIST FIELDS replacement by White Light Computing.|2011/06/03
+Create SQL from cursor|从一个打开的游标创建一个 CREATE CURSOR 的 SQL 语句并复制到剪贴板。|2011/06/03
+Schema|打印/查看当前表格的模式|2011/06/08
+Super Browse|在 Grid 中浏览当前表，显示表结构。 并且，您可以选择字段并构造各种SQL语句（选择，插入，创建表格等）|2012/01/28
+WLC Column Listing Utility|高亮显示 LIST FIELDS |2011/06/03
 Windows|
-Cycle thru Designer windows|Cycle thru Form Designer and Class Designer windows|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
-Move Designer windows to top|Move Form and Class Designers to top of screen and align them horizontally.|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
-Resize Designer Window|Resize current Form / Class Designer window to show the entire form or class being edited.|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
+Cycle thru Designer windows|在表单设计器和类设计器窗口之间切换|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
+Move Designer windows to top|将表单和类设计器窗口移动到屏幕顶部并水平对齐。|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
+Resize Designer Window|调整当前表单/类设计器窗口的大小以显示正在编辑的整个表单或类。|2011/06/03|<a href="Videos\Windows.wmv" target="_blank">(3:33)</a>
 Wizards|
-"Insert Into" from cursor|Pops up form which allows selection of fields from current table and creates an ‘Insert Into’ statement in the clipboard|2012/01/28
-Messagebox Wizard|Pops up form for creating calls to MessageBox|2012/01/28
+"Insert Into" from cursor|弹出表单，允许从当前表中选择字段，并在剪贴板中创建“Insert Into”语句|2012/01/28
+Messagebox Wizard|弹出表单创建对MessageBox的调用|2012/01/28
