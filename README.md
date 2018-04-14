@@ -11,7 +11,7 @@ _需要  VFP9_
 
 _**Thor 仓库** 是由 FoxPro 社区成员编写的可通过 Thor 访问的 IDE 工具集合。_
 
-**完整目录：** **[Catalog of all Thor Repository Tools](documents/ThorRepositoryCatalog.md)**
+**完整目录：** **[所有 Thor 仓库工具的目录](documents/ThorRepositoryCatalog.md)**
 
 **讨论组：** [在 Thor 讨论组发布问题，报告错误已经进行讨论](http://groups.google.com/group/FoxProThor)
 
