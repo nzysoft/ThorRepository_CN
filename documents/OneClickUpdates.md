@@ -30,16 +30,16 @@
 
 如果您已经安装了 Thor，PEM 编辑器或 GoFish ，则此更新过程将用新版本替换已安装的版本。 您将不会失去已经在这些已安装工具的文件夹中完成的任何工作。
 
-If you did <u>not</u> have prior versions installed, then the update process will install them in a subfolder of the Thor folder (Thor\Tools\Apps).
+如果您之前没有安装过，则更新过程会将它们安装在Thor文件夹（Thor \ Tools \ Apps）的子文件夹中。
 
-## Important Note
+## 重要提示
 
-The applications that are automatically downloaded as part of ‘Checking for Updates’ are not only downloaded, but they are also installed and ready to run.  There is nothing else you need to do in order to start using them.
+作为“检查更新”一部分而自动下载的应用程序不仅可以下载，而且还可以安装并准备运行。 为了开始使用它们，您无需做任何其他事情。
 
-## Recommendations
+## 建议
 
-Thor is started by running RunThor.PRG, a file that is created as part of the installation process. This file can be copied into any other folder you wish (such as in your path), since it contains an explicit reference to the folder where you installed Thor.
+Thor 通过运行 RunThor.PRG 启动，该文件是作为安装过程的一部分创建的。 该文件可以复制到您希望的任何其他文件夹中（例如在您的路径中），因为它包含对安装Thor的文件夹的明确引用。
 
-1.  Since this process works best if run right after launching FoxPro, before you begin working and BEFORE opening PEM Editor, and with no other FoxPro sessions running, we recommend that you call RunThor as part of your IDE setup
+1.  由于此过程在启动 FoxPro 之后立即运行，因此在开始工作之前以及在打开 PEM 编辑器之前以及在没有运行其他 FoxPro 会话的情况下运行时，此过程效果最佳，因此建议您将RunThor作为IDE设置的一部分调用
 
-2.  As Thor continues to evolved there are updates from time to time. We recommend calling RunThor with a parameter of 7 so that “Check For Updates” is run automatically every week.
+2.  随着Thor的不断发展，不时有更新。 我们建议使用参数7调用RunThor，以便每周自动运行“检查更新”。
