@@ -2,6 +2,8 @@
 
 ## Catalog of Thor Repository Tools
 
+本文档由 xinjie 于 2018.04.14 翻译
+
 Tool|Description|Updated|Video
 ---|---|---|---
 Comment highlighted text|Improved way to comment highlighted text; also creates comment line with date|2011/06/09
