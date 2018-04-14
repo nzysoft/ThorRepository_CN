@@ -38,18 +38,18 @@ Go To Include File|打开正在编辑的表单或类的头文件|2012/01/28
 Go To Method|打开一个对话框来选择一种方法来查看或编辑。 允许通过部分方法名进行搜索。|2011/06/03
 Go To Object|选择代码窗口所属的对象。|2011/07/29
 Miscellaneous|
-"View Definition" uses "Go To Definition"|Modifies the right-click context menu for a code window so that selecting ‘View Definition’ causes ‘Go To Definition’ to run. Must be run once per session.|2012/01/28
-Display ClassLibs|Display current class libraries in a dialog box, one per line.|2011/06/03
-Display Path|Display current path in a dialog box in a dialog box, one per line.|2011/06/03
-HackCX4 from MRU forms or classes|HackCX: Pop-up menu to select a form or class (from MRU lists) to be opened with HackCX4|2011/06/03
-Toggle comment colors|Toggle colors for comments in edit windows (normal vs. subdued)|2011/06/03
+"View Definition" uses "Go To Definition"|修改代码窗口的右键关联菜单，以便在选择“View Definition”时调用“Go To Definition”。 必须在每个会话中运行一次。|2012/01/28
+Display ClassLibs|在对话框中显示当前类库，每行一个。|2011/06/03
+Display Path|在对话框的对话框中显示当前路径，每行一个。|2011/06/03
+HackCX4 from MRU forms or classes|HackCX：弹出一个菜单，用于选择要使用HackCX4打开的表单或类（来自MRU列表）|2011/06/03
+Toggle comment colors|在编辑窗口中为注释切换颜色（正常与柔和）|2011/06/03
 Projects|
-MRU classes in this project|Popup menu of MRU classes in the current project|2011/06/04|<a href="Videos\MRU.wmv" target="_blank">(1:56)</a>
-MRU files in this project|Popup menu of MRU lists for files in the current project|2011/06/04|<a href="Videos\MRU.wmv"  target="_blank">(1:56)</a>
-Open project folder|Open an Explorer folder showing the folder of the active project|2011/07/29
+MRU classes in this project|当前项目中MRU类的弹出式菜单|2011/06/04|<a href="Videos\MRU.wmv" target="_blank">(1:56)</a>
+MRU files in this project|MRU的弹出式菜单列出当前项目中的文件|2011/06/04|<a href="Videos\MRU.wmv"  target="_blank">(1:56)</a>
+Open project folder|打开显示活动项目文件夹的资源管理器文件夹|2011/07/29
 Samples|
-Modify the “Last Revision” comment|Sample of finding a specific line in a edit window and modifying it.|2011/07/29
-Wrap text with IF / ENDIF|Sample of taking the highlighted text in an edit window, modifying it, and pasting back the replacement.2011/06/09
+Modify the “Last Revision” comment|在编辑窗口中查找特定行并修改它的示例。|2011/07/29
+Wrap text with IF / ENDIF|在编辑窗口中取出高亮文本，修改它并粘贴替换的示例。|2011/06/09
 Tables|  
 Create SQL from cursor|Puts a CREATE CURSOR SQL statement on the clipboard from an open cursor.|2011/06/03
 Schema|Print/View the current table's schema|2011/06/08
