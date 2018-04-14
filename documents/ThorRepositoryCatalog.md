@@ -12,9 +12,9 @@ Wrap text with IF / ELSE / ENDIF|用 IF / ELSE / ENDIF 包装高亮显示的文�
 Wrap text with Try / Catch|使用 Try / Catch 包装突出显示的文本|2011/10/22
 Wrap text with With / EndWith |用  With / EndWith 包装突出显示的文本|2012/01/28
 Change IF/ENDIF in highlighted text to DO CASE|将突出显示的文本中的 IF / ENDIF 更改为 Do Case / otherwise / EndCase|2011/10/22
-Break highlighted text|Break highlighted text out into a separate line|2011/10/22
-Extract to Constant|Extracts the currently highlighted block of code into a new constant (#Define), either at the beginning of code or, for methods, into the Include file.  See also ‘Extract to Method’ in IDE Tools.|2011/10/22
-Extract to Variable|Extracts the currently highlighted block of code into a new variable.  See also ‘Extract to Method’ in IDE Tools.|2011/10/22
+Break highlighted text|将高亮文本分解成单独的一行|2011/10/22
+Extract to Constant|将当前高亮代码块提取到一个新的常量（#Define）中，并且显示在代码的开头，对于方法，会将其包含到Include文件中。 另请参阅IDE工具中的“Extract to Method”。|2011/10/22
+Extract to Variable|将当前高亮代码块提取到新变量中。 另请参阅IDE工具中的“Extract to Method”。|2011/10/22
 Code / Highlighting text|  
 Highlight parameter|Highlights a single parameter in a method or function call|2011/10/22
 Highlight parentheses|Highlights code between matching parenthesis.  Repeated usage highlights the next outer set of parentheses.|2011/10/22
