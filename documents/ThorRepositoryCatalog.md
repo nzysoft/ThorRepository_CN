@@ -19,11 +19,11 @@ Code / Highlighting text|
 Highlight parameter|高亮显示方法或函数调用中的单个参数|2011/10/22
 Highlight parentheses|高亮显示匹配括号之间的代码。 并在下一组括号重复使用高亮。|2011/10/22
 Code / Inserting text|
-Insert blank lines around control structures|Adds a blank lines around control structures (IF / ENDIF, DO CASE / ENDCASE, etc.)|2011/10/22
-Insert call to NewObject (from MRU classes)|Pops up menu of MRU classes; then pastes in NewObject() references to the selected class|2011/10/22
-Insert color|Prompts for color, using GetColor(), and inserts RGB value|2011/07/29
-Insert full name of object under mouse|Pastes the full path name of the object under the mouse into the code window. Updated to work correctly when working with a class definition|2011/07/29
-Insert reference to class|Inserts a reference to the class that an object belongs to; This.Parent.Parent, etc.|2011/07/29
+Insert blank lines around control structures|在控制结构前后添加空行（IF / ENDIF，DO CASE / ENDCASE等）|2011/10/22
+Insert call to NewObject (from MRU classes)|弹出基于 MRU 类的菜单; 然后将 NewObject( ) 引用粘贴到所选类中|2011/10/22
+Insert color|使用GetColor（）提示颜色，并插入RGB值|2011/07/29
+Insert full name of object under mouse|将鼠标下的对象的完整路径名粘贴到代码窗口中。 更新代码并使类定义正确工作|2011/07/29
+Insert reference to class|插入对象所属类的引用; 如 This.Parent.Parent 等|2011/07/29
 Code / MDots|
 Add MDots to variable names|Adds MDots to all references to parameters, locals, and other variables assigned values.|2011/10/22
 Remove MDots from variable names|Removes MDots from all references to parameters, locals, and other variables.|2011/10/22
