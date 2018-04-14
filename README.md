@@ -13,9 +13,9 @@ _**Thor 仓库** 是由FoxPro社区成员编写的可通过Thor访问的IDE工�
 
 **完整目录：** **[Catalog of all Thor Repository Tools](documents/ThorRepositoryCatalog.md)**
 
-**Discussions:** [Post questions, bug reports, discussions in the Thor Discussion Group](http://groups.google.com/group/FoxProThor)
+**讨论：** [在Thor讨论组发布问题，报告错误和讨论](http://groups.google.com/group/FoxProThor)
 
-**Home page for Thor:** [**Thor**](https://github.com/VFPX/Thor)
+**Thor 主页:** [**Thor(简体中文)**](https://github.com/vfp9/Thor_CN)    [**Thor(英文)**](https://github.com/vfpx/Thor)
 
 ***
 
