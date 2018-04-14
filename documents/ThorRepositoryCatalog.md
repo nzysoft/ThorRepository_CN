@@ -1,10 +1,10 @@
 ﻿<div class="wikidoc">
 
-## Catalog of Thor Repository Tools
+## Thor 仓库工具目录
 
 本文档由 xinjie 于 2018.04.14 翻译
 
-Tool|Description|Updated|Video
+工具|描述|更新日期|视频
 ---|---|---|---
 Comment highlighted text|Improved way to comment highlighted text; also creates comment line with date|2011/06/09
 Un-comment highlighted text|Removes comment \*!\* from each line in the highlighted text. Works in those instances where native VFP uncomment does nothing.|2011/10/22
