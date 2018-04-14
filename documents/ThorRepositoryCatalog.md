@@ -25,18 +25,18 @@ Insert color|使用GetColor（）提示颜色，并插入RGB值|2011/07/29
 Insert full name of object under mouse|将鼠标下的对象的完整路径名粘贴到代码窗口中。 更新代码并使类定义正确工作|2011/07/29
 Insert reference to class|插入对象所属类的引用; 如 This.Parent.Parent 等|2011/07/29
 Code / MDots|
-Add MDots to variable names|Adds MDots to all references to parameters, locals, and other variables assigned values.|2011/10/22
-Remove MDots from variable names|Removes MDots from all references to parameters, locals, and other variables.|2011/10/22
+Add MDots to variable names|将“M.”添加到所有对参数，局部变量和其他变量赋值的引用。|2011/10/22
+Remove MDots from variable names|从所有对参数，局部变量和其他变量的引用中“M.”。|2011/10/22
 Code / Misc.|
-Install enhanced ZLOC|Installs an enhanced version of ZLOC, which will cause the pop-up list to also include all variables assigned in code, whether they are in the LOCALs list or not.  Note that this only need be done once, is it updates FoxCode.|2011/10/22
-Modify Class for PRG-based classes|Provides a mechanism to convert a PRG based class (with no child objects) into a temporary VCX so that IDE Tools can work on it; and then post back again into the PRG. See [Modify class for PRG-based classes.](https://github.com/VFPX/Thor/blob/master/Docs/VCD4PRG.md)|2011/10/22
-Remove blank lines|Removes all blank lines from the current code window|2012/01/28
+Install enhanced ZLOC|安装ZLOC的增强版本，这会导致弹出列表还包括代码中分配的所有变量，无论它们是否在LOCAL列表中。 请注意，这只需要做一次，它更新FoxCode。|2011/10/22
+Modify Class for PRG-based classes|提供一种将基于PRG的类（不带子对象）转换为临时VCX的机制，以便IDE Tools可以在其上工作; 然后再回到PRG中。 参看[修改基于 PRG 的类。](https://github.com/vfp9/Thor_CN/blob/master/Docs/VCD4PRG.md)|2011/10/22
+Remove blank lines|删除当前代码窗口中的所有空白行|2012/01/28
 Go To ...|
-Go To ‘Find’ in PEM Editor|Sets focus to the ‘Find’ textbox in PEM Editor; opens PEM Editor if it is not already open|2011/10/22
-Go To File|Opens a dialog with a filter box to quickly select a file (PRG, SCX, VCX, etc.) from the Active Project|2011/10/22
-Go To Include File|Opens the include file for the form or class being editres|2012/01/28
-Go To Method|Opens a dialog form to choose a method to view or edit. Allows searching by part of a method name.|2011/06/03
-Go To Object|Select the object which the code window belongs to.|2011/07/29
+Go To ‘Find’ in PEM Editor|将焦点设置到PEM编辑器中的“查找”文本框; 如果它尚未打开，则打开PEM编辑器|2011/10/22
+Go To File|打开一个带有过滤器框的对话框，从活动项目中快速选择一个文件（PRG，SCX，VCX等）|2011/10/22
+Go To Include File|打开正在编辑的表单或类的头文件|2012/01/28
+Go To Method|打开一个对话框来选择一种方法来查看或编辑。 允许通过部分方法名进行搜索。|2011/06/03
+Go To Object|选择代码窗口所属的对象。|2011/07/29
 Miscellaneous|
 "View Definition" uses "Go To Definition"|Modifies the right-click context menu for a code window so that selecting ‘View Definition’ causes ‘Go To Definition’ to run. Must be run once per session.|2012/01/28
 Display ClassLibs|Display current class libraries in a dialog box, one per line.|2011/06/03
