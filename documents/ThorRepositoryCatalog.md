@@ -6,7 +6,7 @@
 
 工具|描述|更新日期|视频
 ---|---|---|---
-Comment highlighted text|改进注释高亮文本的方法；也可以创建带有日期的注释行|2011/06/09
+Comment highlighted text|改进的将注释高亮显示的方法；也可以创建带有日期的注释行|2011/06/09
 Un-comment highlighted text|从高亮文本中的每行删除注释。 适用于原生 VFP 注释。|2011/10/22
 Wrap text with IF / ELSE / ENDIF|用 IF / ELSE / ENDIF 包装高亮显示的文本|2011/10/22
 Wrap text with Try / Catch|使用 Try / Catch 包装突出显示的文本|2011/10/22
