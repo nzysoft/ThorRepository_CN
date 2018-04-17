@@ -27,7 +27,7 @@ Insert reference to class|插入对象所属类的引用; 如 This.Parent.Parent
 代码 / “M.”操作符|
 Add MDots to variable names|将“M.”添加到所有对参数，局部变量和其他变量赋值的引用。|2011/10/22
 Remove MDots from variable names|从所有对参数，局部变量和其他变量的引用中“M.”。|2011/10/22
-Code / Misc.|
+Code / 杂项|
 Install enhanced ZLOC|安装ZLOC的增强版本，这会导致弹出列表还包括代码中分配的所有变量，无论它们是否在LOCAL列表中。 请注意，这只需要做一次，它更新FoxCode。|2011/10/22
 Modify Class for PRG-based classes|提供一种将基于PRG的类（不带子对象）转换为临时VCX的机制，以便IDE Tools可以在其上工作; 然后再回到PRG中。 参看[修改基于 PRG 的类。](https://github.com/vfp9/Thor_CN/blob/master/Docs/VCD4PRG.md)|2011/10/22
 Remove blank lines|删除当前代码窗口中的所有空白行|2012/01/28
